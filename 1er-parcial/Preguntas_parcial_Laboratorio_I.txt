@@ -1,0 +1,68 @@
+Preguntas de parcial - Programación I
+
+Pregunta que SIEMPRE está en los parciales 
+El do siempre se ejecuta por lo menos una vez (del do while)
+Porque primero se ejecuta el código y después se evalúa la condición. 
+Los demás while y for, pueden no ejecutarse nunca
+
+
+|| pregunta de parcial
+Un contador y un acumulador son variables de tipo numéricas. El programador les da un comportamiento particular a cada una. 
+El contador se va a incrementar o decrementar de manera constante. 
+El acumulador se va a incrementar o decrementar de manera variable. 
+
+
+|| pregunta de parcial 
+Comportamiento de la pila: modelo llamado LIFO (“last in, first out”). El último en entrar es el primero en salir
+
+
+Que se puede hacer con una pila (funciones) || pregunta de parcial: enumerar las funciones de una pila
+Crearla
+Inicializarla - obligatorio. SI no lo hago, se va a romper
+Agregar un elemento - siempre de a 1
+Sacar un elemento - siempre de a 1
+Ver si está vacía - fundamental saber si la pila tiene datos o no. Porque si quiero ver qué hay en el tope o quitar un elemento y la pila está vacía, el programa se va a romper
+Ver el elemento que esta en el tope
+Mostrar el contenido de toda la pila
+
+Es fundamental entender el comportamiento de las pilas 
+
+Por qué son importante las pilas? 
+ctrl z y ctrl y son pilas (rehacer, deshacer)
+el OS utiliza muchísimo las pilas - necesita ese comportamiento
+
+
+
+Lo importante aca es saber si las pilas son igual o no, para eso se usa el flag 
+Se usa para dos cosas en el buscaEnPila 
+Para avisar si se cumplio la condición
+Cortar el ciclo una vez encontrada el numero
+
+Es importante preguntarse 2 cosas a la hora de recorrer una condición
+Si la colección no está vacía
+Si quiero necesariamente recorrerla por completo 
+Esta pregunta es la que da la pauta de si tengo que usar flag o no
+
+Ejemplo: tengo que saber cuántas veces hay x dato en la colección 
+Acá sí es necesario recorrer la pila completa
+
+
+
+Pregunta de parcial!!
+Parámetro real y parámetro formal 
+
+El 5 se copia en la variable x y puede ser usado en la función. Es una copia, pues son direcciones de memoria diferentes. 
+
+Transferencia de información - otra pregunta de parcial. Hay dos métodos
+Es la comunicación que hay entre la función y lo que hay por fuera. Se hace por medio de los parámetros de entrada
+por valor - recibe una copia
+copia el valor de un argumento de la llamada en el parámetro formal de una función. 
+los cambios de los parámetros de la función no afectan a las variables que se usan en la llamada
+por referencia - recibe una referencia, un puntero o dirección de memoria
+recibo la dirección de memoria de la variable que actúa como parámetro actual 
+se copia la dirección del argumento en el parámetro. los cambios hechos a los parámetros afectan a las variables usadas en la llamada a la función 
+aquí aparecen los &
+e.g. la función scanf necesita la dirección de memoria de una variable para poder modificarla 
+e.g. la función apilar necesita la dirección de memoria de la pila - por eso le paso la pila con el & delante
+
+

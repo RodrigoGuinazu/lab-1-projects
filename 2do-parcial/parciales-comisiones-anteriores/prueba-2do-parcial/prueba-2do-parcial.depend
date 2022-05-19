@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623810096 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\2do-parcial\parciales-comisiones-anteriores\prueba-2do-parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+

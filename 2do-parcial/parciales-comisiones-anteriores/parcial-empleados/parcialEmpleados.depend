@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623993898 source:c:\users\santiago\desktop\laboratorio 1\parcialempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1623993898 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\2do-parcial\parciales-comisiones-anteriores\parcial-empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+

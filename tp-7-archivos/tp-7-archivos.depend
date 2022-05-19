@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622782890 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\tp-7-archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

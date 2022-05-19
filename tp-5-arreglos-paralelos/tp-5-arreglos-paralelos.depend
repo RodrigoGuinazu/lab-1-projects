@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622611031 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\tp-5-arreglos-paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

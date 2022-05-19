@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623986529 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\2do-parcial\parciales-comisiones-anteriores\parcial-2-sonvico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

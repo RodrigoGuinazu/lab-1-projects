@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\prueba-parcial-1-t2\pila.c
+	"pila.h"
+
+1490112217 c:\users\rodri\documents\facultad\tsp\2021\programacion 1\prueba-parcial-1-t2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1620012133 source:c:\users\rodri\documents\facultad\tsp\2021\programacion 1\prueba-parcial-1-t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
